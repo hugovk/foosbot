@@ -4,7 +4,7 @@
 [![GitHub Actions status](https://github.com/hugovk/pypistats/workflows/Test/badge.svg)](https://github.com/hugovk/foosbot/actions)
 [![codecov](https://codecov.io/gh/hugovk/foosbot/branch/master/graph/badge.svg)](https://codecov.io/gh/hugovk/foosbot)
 [![Licence](https://img.shields.io/github/license/hugovk/foosbot.svg)](LICENSE.txt)
-[![Code style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
+[![Code style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Slackbot for arranging foosball games.
 
